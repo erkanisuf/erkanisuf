@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 😄
+<h4> Welcome to my Github! </h4>
+ <br />
+  I like to work with React and lately been learning C# and .Net Core as a backend language (:
+
+<br />
+
 
 <!--
 **erkanisuf/erkanisuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
