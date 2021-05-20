@@ -12,7 +12,6 @@
  
 [![Tech I like](https://github-readme-stats.vercel.app/api/top-langs/?username=erkanisuf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanisuf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **erkanisuf/erkanisuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
