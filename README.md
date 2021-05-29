@@ -2,7 +2,8 @@
 
  <h4> Hi there 👋 😄 I am Erko</h4>
  <br />
-<img src="https://i.ibb.co/2jG9GqX/erkologo.png" alt="erkodevlogo" width="100px"/>
+ <a href="https://erkodev.fi/"> 
+<img src="https://i.ibb.co/2jG9GqX/erkologo.png" alt="erkodevlogo" width="100px"/></a>
 
  <br />
  <p>I like to work with React and lately been learning C# and .Net Core as a backend language🌱 . </p>
