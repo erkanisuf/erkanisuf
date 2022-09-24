@@ -6,8 +6,8 @@
 <img src="https://i.ibb.co/2jG9GqX/erkologo.png" alt="erkodevlogo" width="100px"/></a>
 
  <br />
- <p>I like to work with React and lately been learning C# and .Net Core as a backend language🌱 . </p>
- <p> Love to learn and practise with new tech and always looking to improve⚡ </p>
+ <p>I like to work with React 🌱 . </p>
+ <p> Doges ⚡ </p>
 
  <br /> 
  
