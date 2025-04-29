@@ -3,11 +3,10 @@
  <h4> Hi there 👋 😄 I am Erko</h4>
  <br />
  <a href="https://erkodev.fi/"> 
-<img src="https://i.ibb.co/2jG9GqX/erkologo.png" alt="erkodevlogo" width="100px"/></a>
 
  <br />
  <p>I like to work with React 🌱 . </p>
- <p> Doges ⚡ </p>
+ 
 
  <br /> 
  
